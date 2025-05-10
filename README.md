@@ -1,3 +1,8 @@
+## 🚧 Project End-of-Life Notice
+
+This project is no longer under active development or support.  
+The primary reason is that X (formerly Twitter) has implemented a rate limit on its embedded syndication endpoint (`syndication.twitter.com`), which we had been scraping to bypass official API limits.
+
 # X (Twitter) ActivityPub Bridge
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kohnoselami)
 ![GitHub release](https://img.shields.io/github/release/c7e715d1b04b17683718fb1e8944cc28/XActivityPubBridge.svg)
